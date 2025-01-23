@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'ApplePro-Bold';
+  src: url('./fonts/SFProText-Bold.ttf') format('truetype');
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ApplePro-Bold-Italic';
+  src: url('./fonts/SFProText-BoldItalic.ttf') format('truetype');
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ApplePro-Heavy';
+  src: url('./fonts/SFProText-Heavy.ttf') format('truetype');
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ApplePro-Light';
+  src: url('./fonts/SFProText-Light.ttf') format('truetype');
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ApplePro-Medium';
+  src: url('./fonts/SFProText-Medium.ttf') format('truetype');
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ApplePro-Regular';
+  src: url('./fonts/SFProText-Regular.ttf') format('truetype');
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ApplePro-RegularItalic';
+  src: url('./fonts/SFProText-RegularItalic.ttf') format('truetype');
+  font-style: normal;
+}

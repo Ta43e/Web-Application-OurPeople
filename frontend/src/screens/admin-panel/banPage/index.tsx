@@ -1,0 +1,1 @@
+export { BanUserPage } from './banUserPage';
